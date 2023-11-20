@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ViewTransitions } from 'astro:transitions';
+import "../styles/styles.scss";
+import Container from '../components/container/Container';
+---
+
+<Layout title="Welcome to Astro.">
+  <a href="/">Another page</a>
+  <Container client:load transition:name="progress" transition:persist />
+</Layout>
+
+<ViewTransitions>
