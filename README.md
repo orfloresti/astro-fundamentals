@@ -1,6 +1,7 @@
 # Astro 
 
 
+![demo](https://github.com/orlandofloresti/astro-transitions/blob/main/public/grid.png)
 
 
 ## 🧞 Commands
