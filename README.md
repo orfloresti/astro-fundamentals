@@ -1,7 +1,6 @@
-# Astro 
+# Astro
 
-
-![demo](https://github.com/orlandofloresti/astro-transitions/blob/main/public/grid.png)
+[Astro Framework](https://www.youtube.com/watch?v=KHhFUbhSveI&list=PL4qycS8CTHjutG6pcOSQKtcocgLl1G1tZ)
 
 
 ## 🧞 Commands
